@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "dbadm",
+    "password": "Dbadm123!",
+    "database": "postgres",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "dbadm",
+    "password": "Dbadm123!",
+    "database": "postgres",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "dbadm",
+    "password": "Dbadm123!",
+    "database": "postgres",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}

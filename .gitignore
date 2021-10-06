@@ -1,0 +1,10 @@
+### Исключаем
+node_modules/
+
+.idea/
+.vscode/
+build/
+npm-debug.log
+data/Sitemap/sitemap*
+src/Configs/LocalConfig.ts
+*.csv
